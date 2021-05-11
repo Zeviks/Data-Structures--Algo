@@ -1,0 +1,4 @@
+What is good code? 
+--Answer--
+Big O & Scalability
+--Answer--
